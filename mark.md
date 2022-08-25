@@ -2,7 +2,11 @@
 - [ ] Qwik
 - [ ] Next.js
 - [ ] Remix
-- [ ] Svelte
+- [x] Svelte
 - [ ] Solid
 - [ ] micro-app
 - [ ] qiankun
+
+- [ ] Windi CSS
+- [ ] Tailwind CSS
+- [ ] UnoCSS
