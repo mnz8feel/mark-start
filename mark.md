@@ -3,10 +3,20 @@
 - [ ] Next.js
 - [ ] Remix
 - [x] Svelte
-- [ ] Solid
+- [x] Solid
 - [ ] micro-app
 - [ ] qiankun
 
-- [ ] Windi CSS
+- [x] Windi CSS
 - [ ] Tailwind CSS
 - [ ] UnoCSS
+
+- 只允许 pnpm
+
+```
+{
+    "scripts": {
+        "preinstall": "npx only-allow pnpm"
+    }
+}
+```
