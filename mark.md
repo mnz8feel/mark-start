@@ -4,8 +4,6 @@
 - [ ] Remix
 - [x] Svelte
 - [x] Solid
-- [ ] micro-app
-- [ ] qiankun
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
