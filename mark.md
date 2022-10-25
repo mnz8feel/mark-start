@@ -1,3 +1,5 @@
+# lock dependency
+
 - [ ] Astro
 - [ ] Qwik
 - [ ] Next.js
