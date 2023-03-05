@@ -1,5 +1,3 @@
-# lock dependency
-
 - [ ] Astro
 - [ ] Qwik
 - [ ] Next.js
@@ -9,14 +7,18 @@
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
+- [ ] Headless UI
+- [ ] heroicons
 - [ ] UnoCSS
 
-- 只允许 pnpm
+- [ ] rollup
 
-```
-{
-    "scripts": {
-        "preinstall": "npx only-allow pnpm"
-    }
-}
-```
+- [ ] Turborepo
+- [ ] Nx
+- [ ] Rush
+- [ ] lage
+
+- [ ] Nest
+- [ ] Fastify
+
+- [ ] GraphQL
