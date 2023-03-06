@@ -1,9 +1,9 @@
-- [ ] Astro
-- [ ] Qwik
 - [ ] Next.js
-- [ ] Remix
+- [ ] Qwik
 - [x] Svelte
 - [x] Solid
+- [ ] Astro
+- [ ] Remix
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
@@ -12,9 +12,10 @@
 - [ ] UnoCSS
 
 - [ ] rollup
+- [ ] Parcel
 
-- [ ] Turborepo
 - [ ] Nx
+- [ ] Turborepo
 - [ ] Rush
 - [ ] lage
 
@@ -22,3 +23,4 @@
 - [ ] Fastify
 
 - [ ] GraphQL
+- [ ] trpc
