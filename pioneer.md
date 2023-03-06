@@ -1,8 +1,6 @@
 start-next: pnpm create next-app --typescript
 start-svelte: pnpm create svelte
 start-qwik: pnpm create qwik
-start-solid: `git clone https://github.com/solidjs/templates`, choose a template.
-start-astro: pnpm create astro@latest
 start-remix: pnpm create remix@latest
 
 start-nest: pnpm dlx @nestjs/cli new start-nest
