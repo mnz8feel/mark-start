@@ -1,9 +1,9 @@
-- [ ] Next.js
-- [ ] Qwik
+- [x] Next.js
+- [x] Qwik
 - [x] Svelte
 - [x] Solid
 - [ ] Astro
-- [ ] Remix
+- [x] Remix
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
@@ -19,8 +19,13 @@
 - [ ] Rush
 - [ ] lage
 
-- [ ] Nest
+- [x] Nest
 - [ ] Fastify
 
 - [ ] GraphQL
 - [ ] trpc
+
+- [ ] stencil
+- [ ] polymer
+- [ ] lit
+- [ ] hybrids
