@@ -2,8 +2,9 @@
 - [x] Qwik
 - [x] Svelte
 - [x] Solid
-- [ ] Astro
 - [x] Remix
+- [ ] Astro
+
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
