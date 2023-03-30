@@ -18,9 +18,9 @@
   "devDependencies": {
     "@remix-run/dev": "^1.14.3",
     "@remix-run/eslint-config": "^1.14.3",
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.0.31",
     "@types/react-dom": "^18.0.11",
-    "eslint": "^8.36.0",
+    "eslint": "^8.37.0",
     "typescript": "^5.0.2"
   },
   "engines": {
