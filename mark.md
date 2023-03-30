@@ -3,7 +3,7 @@
 - [x] Svelte
 - [x] Remix
 - [x] Solid
-- [ ] Astro
+- [x] Astro
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
