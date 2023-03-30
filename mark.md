@@ -1,10 +1,9 @@
 - [x] Next.js
 - [x] Qwik
 - [x] Svelte
-- [x] Solid
 - [x] Remix
+- [x] Solid
 - [ ] Astro
-
 
 - [x] Windi CSS
 - [ ] Tailwind CSS
