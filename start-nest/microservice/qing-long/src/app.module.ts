@@ -9,7 +9,7 @@ import { ClientsModule, Transport } from '@nestjs/microservices';
         name: 'CALC_SERVICE',
         transport: Transport.TCP,
         options: {
-          port: 30307,
+          port: 60001,
         },
       },
     ]),
@@ -18,7 +18,7 @@ import { ClientsModule, Transport } from '@nestjs/microservices';
         name: 'LOG_SERVICE',
         transport: Transport.TCP,
         options: {
-          port: 30308,
+          port: 60002,
         },
       },
     ]),
