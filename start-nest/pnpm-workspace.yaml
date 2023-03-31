@@ -1,3 +1,3 @@
 packages:
-  - 'default'
+  - 'nest-monolithic'
   - 'microservice/*'
