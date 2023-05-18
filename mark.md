@@ -1,29 +1,45 @@
-- [x] Next.js
-- [x] Qwik
-- [x] Svelte
-- [x] Remix
-- [x] Solid
-- [x] Astro
+- [x] next
+- [x] qwik
+- [x] svelte
+- [x] remix
+- [x] solid
+- [x] astro
+- [ ] angular
+- [ ] vue3
 
-- [x] Windi CSS
-- [ ] Tailwind CSS
-- [ ] Headless UI
+- [x] windicss
+- [ ] tailwindcss
+- [ ] headlessui
 - [ ] heroicons
-- [ ] UnoCSS
+- [ ] unocss
 
 - [ ] rollup
-- [ ] Parcel
+- [ ] vite
+- [ ] turbopack
+- [ ] parcel
 
-- [ ] Nx
-- [ ] Turborepo
-- [ ] Rush
+---
+
+- [ ] changesets
+- [ ] rushstack
+- [ ] turborepo
+- [ ] nx
 - [ ] lage
 
-- [x] Nest
-- [ ] Fastify
+---
 
-- [ ] GraphQL
+- [x] nest
+- [ ] fastify
 - [ ] trpc
+
+- [ ] graphql
+- [ ] typeorm
+- [ ] prisma
+- [ ] sequelize
+
+---
+
+Web Components
 
 - [ ] stencil
 - [ ] polymer
