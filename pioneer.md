@@ -14,6 +14,8 @@ start-nest: pnpm dlx @nestjs/cli new start-nest
 
 start-angular: ng new start-angular -g --skip-install (Angular routing, SCSS)
 
+start-vue: pnpm create vue@latest (TypeScript, JSX Support, Vue Router, ESLint, Prettier)
+
 ## LJ
 
 solid: https://github.com/solidjs/templates
