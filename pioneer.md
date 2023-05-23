@@ -12,6 +12,8 @@ start-remix: pnpm create remix@latest
 
 start-nest: pnpm dlx @nestjs/cli new start-nest
 
+start-angular: ng new start-angular -g --skip-install (Angular routing, SCSS)
+
 ## LJ
 
 solid: https://github.com/solidjs/templates
