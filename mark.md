@@ -50,6 +50,6 @@ Web Components
 
 - [x] docusaurus
 
-✅ - [x] vuepress
+- [x] ✅ vuepress
 
-❌ - [x] vitepress Not suitable
+- [x] ❌ vitepress Not suitable
