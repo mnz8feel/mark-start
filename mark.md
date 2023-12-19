@@ -49,5 +49,6 @@ Web Components
 ---
 
 - [ ] docusaurus
-- [ ] vitepress
 - [x] vuepress
+
+- [ ] vitepress Not suitable
