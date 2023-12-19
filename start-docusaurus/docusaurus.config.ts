@@ -30,7 +30,7 @@ const config: Config = {
   },
 
   themeConfig: {
-    navbar: null,
+    navbar: {},
   },
 
   presets: [
