@@ -50,4 +50,4 @@ Web Components
 
 - [ ] docusaurus
 - [ ] vitepress
-- [ ] vuepress
+- [x] vuepress
