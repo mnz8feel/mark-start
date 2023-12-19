@@ -1,11 +1,11 @@
+- [ ] vue3
+- [ ] angular
 - [x] next
 - [x] qwik
 - [x] svelte
 - [x] remix
 - [x] solid
 - [x] astro
-- [ ] angular
-- [ ] vue3
 
 - [x] windicss
 - [ ] tailwindcss
