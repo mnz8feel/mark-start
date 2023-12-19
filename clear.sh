@@ -6,3 +6,4 @@ find . -type d -name ".next" -exec rm -rf {} \;
 find . -type d -name ".cache" -exec rm -rf {} \;
 find . -type d -name ".svelte-kit" -exec rm -rf {} \;
 find . -type d -name ".temp" -exec rm -rf {} \;
+find . -type d -name ".docusaurus" -exec rm -rf {} \;
