@@ -1,18 +1,18 @@
-[next](https://github.com/vercel/next.js)
-
-[qwik](https://github.com/BuilderIO/qwik)
-
-[svelte](https://github.com/sveltejs/svelte)
-
-[remix](https://github.com/remix-run/remix)
-
-[solid](https://github.com/solidjs/solid)
-
-[astro](https://github.com/withastro/astro)
+[vue3](https://github.com/vuejs/core)
 
 [angular](https://github.com/angular/angular)
 
-[vue3](https://github.com/vuejs/core)
+[solid](https://github.com/solidjs/solid)
+
+[svelte](https://github.com/sveltejs/svelte)
+
+[next](https://github.com/vercel/next.js)
+
+[remix](https://github.com/remix-run/remix)
+
+[qwik](https://github.com/BuilderIO/qwik)
+
+[astro](https://github.com/withastro/astro)
 
 [windicss](https://github.com/windicss/windicss)
 
@@ -32,8 +32,6 @@
 
 [parcel](https://github.com/parcel-bundler/parcel)
 
----
-
 [changesets](https://github.com/changesets/changesets)
 
 [rushstack](https://github.com/microsoft/rushstack)
@@ -43,8 +41,6 @@
 [nx](https://github.com/nrwl/nx)
 
 [lage](https://github.com/microsoft/lage)
-
----
 
 [nest](https://github.com/nestjs/nest)
 
@@ -59,8 +55,6 @@
 [prisma](https://github.com/prisma/prisma)
 
 [sequelize](https://github.com/sequelize/sequelize)
-
----
 
 [stencil](https://github.com/ionic-team/stencil)
 
