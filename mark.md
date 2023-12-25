@@ -1,22 +1,31 @@
 - [ ] vue3
 - [ ] angular
-- [x] next
-- [x] qwik
+
 - [x] svelte
-- [x] remix
 - [x] solid
+
+- [x] next
+- [x] remix
+
+- [x] qwik
 - [x] astro
+
+---
+
+- [ ] webpack
+- [ ] rollup
+- [ ] vite
+
+- [ ] turbopack
+- [ ] parcel
+
+---
 
 - [x] windicss
 - [ ] tailwindcss
 - [ ] headlessui
 - [ ] heroicons
 - [ ] unocss
-
-- [ ] rollup
-- [ ] vite
-- [ ] turbopack
-- [ ] parcel
 
 ---
 
@@ -25,17 +34,6 @@
 - [ ] turborepo
 - [ ] nx
 - [ ] lage
-
----
-
-- [x] nest
-- [ ] fastify
-- [ ] trpc
-
-- [ ] graphql
-- [ ] typeorm
-- [ ] prisma
-- [ ] sequelize
 
 ---
 
@@ -53,3 +51,14 @@ Web Components
 - [x] ✅ vuepress
 
 - [x] ❌ vitepress Not suitable
+
+---
+
+- [x] nest
+- [ ] fastify
+- [ ] trpc
+
+- [ ] graphql
+- [ ] typeorm
+- [ ] prisma
+- [ ] sequelize
