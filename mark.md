@@ -46,16 +46,17 @@ Web Components
 
 ---
 
-- [x] docusaurus
+- [x] Nextra
 
 - [x] ✅ vuepress
 
+- [x] docusaurus
+
 - [x] ❌ vitepress Not suitable
 
-- [ ] Docz
-- [ ] Nextra
 - [ ] MkDocs
 - [ ] docsify
+- [ ] Docz
 
 ---
 
