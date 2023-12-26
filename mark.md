@@ -68,3 +68,15 @@ Web Components
 - [ ] typeorm
 - [ ] prisma
 - [ ] sequelize
+
+---
+
+代码高亮
+
+[shiki](https://github.com/shikijs/shiki)
+
+[prism](https://github.com/PrismJS/prism)
+
+[prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+
+[react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
