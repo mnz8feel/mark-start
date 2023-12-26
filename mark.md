@@ -52,6 +52,11 @@ Web Components
 
 - [x] ❌ vitepress Not suitable
 
+- [ ] Docz
+- [ ] Nextra
+- [ ] MkDocs
+- [ ] docsify
+
 ---
 
 - [x] nest
