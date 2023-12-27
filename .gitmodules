@@ -1,3 +1,42 @@
 [submodule "feel-angular"]
 	path = feel-angular
 	url = https://github.com/mnz8feel/feel-angular.git
+[submodule "feel-astro-basics"]
+	path = feel-astro-basics
+	url = https://github.com/mnz8feel/feel-astro-basics.git
+[submodule "feel-astro-react"]
+	path = feel-astro-react
+	url = https://github.com/mnz8feel/feel-astro-react.git
+[submodule "feel-docusaurus"]
+	path = feel-docusaurus
+	url = https://github.com/mnz8feel/feel-docusaurus.git
+[submodule "feel-nest"]
+	path = feel-nest
+	url = https://github.com/mnz8feel/feel-nest.git
+[submodule "feel-next"]
+	path = feel-next
+	url = https://github.com/mnz8feel/feel-next.git
+[submodule "feel-qwik"]
+	path = feel-qwik
+	url = https://github.com/mnz8feel/feel-qwik.git
+[submodule "feel-remix"]
+	path = feel-remix
+	url = https://github.com/mnz8feel/feel-remix.git
+[submodule "feel-solid-tailwindcss"]
+	path = feel-solid-tailwindcss
+	url = https://github.com/mnz8feel/feel-solid-tailwindcss.git
+[submodule "feel-solid-unocss"]
+	path = feel-solid-unocss
+	url = https://github.com/mnz8feel/feel-solid-unocss.git
+[submodule "feel-solid-windicss"]
+	path = feel-solid-windicss
+	url = https://github.com/mnz8feel/feel-solid-windicss.git
+[submodule "feel-svelte"]
+	path = feel-svelte
+	url = https://github.com/mnz8feel/feel-svelte.git
+[submodule "feel-vue"]
+	path = feel-vue
+	url = https://github.com/mnz8feel/feel-vue.git
+[submodule "feel-vuepress"]
+	path = feel-vuepress
+	url = https://github.com/mnz8feel/feel-vuepress.git
