@@ -1,5 +1,5 @@
-- [ ] vue3
-- [ ] angular
+- [x] vue3
+- [x] angular
 
 - [x] svelte
 - [x] solid
@@ -25,7 +25,7 @@
 - [ ] tailwindcss
 - [ ] headlessui
 - [ ] heroicons
-- [ ] unocss
+- [x] unocss
 
 ---
 
@@ -46,13 +46,13 @@ Web Components
 
 ---
 
-- [x] Nextra
+- [x] nextra
 
-- [x] ✅ vuepress
+- [x] vuepress ✅
 
-- [x] docusaurus
+- [x] docusaurus ❌ Not suitable
 
-- [x] ❌ vitepress Not suitable
+- [x] vitepress ❌ Not suitable
 
 - [ ] MkDocs
 - [ ] docsify
