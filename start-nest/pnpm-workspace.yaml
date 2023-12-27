@@ -1,3 +1,0 @@
-packages:
-  - 'nest-monolithic'
-  - 'microservice/*'
