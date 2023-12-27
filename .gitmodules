@@ -40,3 +40,9 @@
 [submodule "feel-vuepress"]
 	path = feel-vuepress
 	url = https://github.com/mnz8feel/feel-vuepress.git
+[submodule "feel-nextra-docs"]
+	path = feel-nextra-docs
+	url = https://github.com/mnz8feel/feel-nextra-docs.git
+[submodule "feel-nextra-blog"]
+	path = feel-nextra-blog
+	url = https://github.com/mnz8feel/feel-nextra-blog.git
