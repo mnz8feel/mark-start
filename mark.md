@@ -80,3 +80,13 @@ Web Components
 [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
 
 [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+
+---
+
+[GitHub Docs](https://docs.github.com/en)
+
+[GitHub Pages](https://docs.github.com/en/pages)
+
+[GitHub Actions](https://docs.github.com/en/actions)
+
+[GitBook](https://docs.gitbook.com/)
