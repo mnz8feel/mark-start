@@ -1,16 +1,26 @@
+## web
+
 - [x] vue3
+
 - [x] angular
 
+---
+
 - [x] svelte
+
 - [x] solid
 
 - [x] next
+
 - [x] remix
 
 - [x] qwik
+
 - [x] astro
 
----
+## web tool
+
+"build tool" "bundler"
 
 - [ ] webpack
 - [ ] rollup
@@ -19,21 +29,28 @@
 - [ ] turbopack
 - [ ] parcel
 
----
-
-- [x] windicss
-- [ ] tailwindcss
-- [ ] headlessui
-- [ ] heroicons
-- [x] unocss
+- [ ] [gulpjs](https://gulpjs.com/) automate & workflow
+- [ ] [gruntjs](https://gruntjs.com/) Task Runner
 
 ---
+
+monorepo tool
 
 - [ ] changesets
 - [ ] rushstack
 - [ ] turborepo
 - [ ] nx
 - [ ] lage
+
+---
+
+css tool
+
+- [x] windicss
+- [ ] tailwindcss
+- [ ] headlessui
+- [ ] heroicons
+- [x] unocss
 
 ---
 
@@ -45,6 +62,8 @@ Web Components
 - [ ] hybrids
 
 ---
+
+markdown site generator
 
 - [x] nextra
 
@@ -60,6 +79,8 @@ Web Components
 
 ---
 
+backend
+
 - [x] nest
 - [ ] fastify
 - [ ] trpc
@@ -68,6 +89,8 @@ Web Components
 - [ ] typeorm
 - [ ] prisma
 - [ ] sequelize
+
+[Frontend and backend](https://en.wikipedia.org/wiki/Frontend_and_backend)
 
 ---
 
@@ -81,7 +104,17 @@ Web Components
 
 [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
 
----
+## desktop
+
+- [ ] tauri
+- [ ] electron
+
+## mobile
+
+- [ ] flutter
+- [ ] react-native
+
+## misc
 
 [GitHub Docs](https://docs.github.com/en)
 
@@ -90,3 +123,15 @@ Web Components
 [GitHub Actions](https://docs.github.com/en/actions)
 
 [GitBook](https://docs.gitbook.com/)
+
+## online IDE
+
+[monaco-editor](https://github.com/microsoft/monaco-editor)
+
+[codesandbox-client](https://github.com/codesandbox/codesandbox-client)
+
+[codesandbox](https://codesandbox.io/)
+
+[stackblitz](https://stackblitz.com/)
+
+[vscode](https://vscode.dev/)
