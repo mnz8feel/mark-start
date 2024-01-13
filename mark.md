@@ -114,6 +114,17 @@ backend
 - [ ] flutter
 - [ ] react-native
 
+## 扩展类
+
+- vscode extension
+
+- [ ] [yo](https://github.com/yeoman/yo)
+- [ ] [generator-code](https://www.npmjs.com/package/generator-code)
+
+- chrome extension
+
+[chrome-types](https://github.com/GoogleChrome/chrome-types)
+
 ## misc
 
 [GitHub Docs](https://docs.github.com/en)
