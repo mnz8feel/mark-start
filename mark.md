@@ -154,3 +154,7 @@ backend
 [million](https://github.com/aidenybai/million)
 
 [radix-ui](https://github.com/radix-ui/)
+
+## terminal output colors
+
+[picocolors](https://github.com/alexeyraspopov/picocolors)
