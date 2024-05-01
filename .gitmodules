@@ -46,3 +46,6 @@
 [submodule "feel-nextra-blog"]
 	path = feel-nextra-blog
 	url = https://github.com/mnz8feel/feel-nextra-blog.git
+[submodule "feel-bun-vue"]
+	path = feel-bun-vue
+	url = https://github.com/mnz8feel/feel-bun-vue.git
